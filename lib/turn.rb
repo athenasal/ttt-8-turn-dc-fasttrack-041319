@@ -26,3 +26,5 @@ def move
   ruby input_to_index 
   board[move]
 end
+
+
